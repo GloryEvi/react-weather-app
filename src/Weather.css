@@ -31,7 +31,6 @@
 }
 .Weather canvas {
   margin-right: 10px auto;
-  height: 60px;
 }
 .Weather .unit {
   position: relative;
