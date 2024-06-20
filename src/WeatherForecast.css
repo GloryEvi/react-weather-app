@@ -5,3 +5,9 @@
   opacity: 0.6;
   margin-left: 4px;
 }
+.custom {
+  border-radius: 12px;
+  border: 1px solid #0b5ed7;
+  background: #ffffff30;
+  box-shadow: 2px 2px 2px 2px #0b5ed7;
+}

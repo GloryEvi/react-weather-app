@@ -9,7 +9,7 @@
 }
 
 .Weather h1 {
-  font-size: 24px;
+  font-size: 42px;
   margin: 20px 0 0 0;
   font-weight: 100px;
   line-height: 29px;
@@ -20,13 +20,13 @@
 }
 .Weather li {
   list-style: none;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 100px;
   line-height: 19px;
 }
 .Weather .temperature {
   font-weight: 400;
-  font-size: 58px;
+  font-size: 64px;
   line-height: 64px;
 }
 .Weather canvas {
@@ -34,7 +34,7 @@
 }
 .Weather .unit {
   position: relative;
-  top: -27px;
+  top: -32px;
   font-weight: 540;
   font-size: 16px;
   line-height: 1;
@@ -42,4 +42,28 @@
 }
 a {
   text-decoration: none;
+}
+.Mdate2 {
+  border: 1px solid #0b5ed7;
+  border-radius: 8px;
+  background: #ffffff30;
+  box-shadow: 2px 2px 2px 2px #0b5ed7;
+}
+.Mdate {
+  text-align: right;
+  position: relative;
+  top: 19px;
+}
+.Mdate3 {
+  text-align: right;
+  color: #0746a4;
+}
+.Mdate3 li {
+  margin: 5px;
+}
+
+footer {
+  text-align: center;
+  font-size: 12px;
+  margin-top: 10px;
 }
