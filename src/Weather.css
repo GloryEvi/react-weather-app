@@ -67,3 +67,21 @@ footer {
   font-size: 12px;
   margin-top: 10px;
 }
+@media (max-width: 600px) {
+  .Weather h1 {
+    font-size: 30px;
+  }
+  .Weather li {
+    font-size: 15px;
+  }
+  .Weather .unit {
+    font-size: 12px;
+  }
+  .Weather .temperature {
+    font-size: 54px;
+  }
+  .Weather canvas {
+    height: 40px;
+    margin-top: 6px;
+  }
+}

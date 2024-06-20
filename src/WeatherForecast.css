@@ -11,3 +11,12 @@
   background: #ffffff30;
   box-shadow: 2px 2px 2px 2px #0b5ed7;
 }
+@media (max-width: 500px) {
+  .custom {
+    margin-bottom: 7px;
+    width: 44px;
+  }
+  .weatherForecastTemperatures {
+    font-size: 14px;
+  }
+}
